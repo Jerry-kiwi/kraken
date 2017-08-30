@@ -8,3 +8,5 @@ in the `docs/` directory (`MANUAL.html` and `MANUAL.markdown`).
 
 [Kraken webpage]:   http://ccb.jhu.edu/software/kraken/
 [Kraken manual]:    http://ccb.jhu.edu/software/kraken/MANUAL.html
+
+This is fork for own tests.
